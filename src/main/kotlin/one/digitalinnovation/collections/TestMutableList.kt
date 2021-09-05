@@ -17,7 +17,7 @@ fun main(){
     println("----------")
 
     //DELET
-    
+
     funcionarios.remove(joao)
     funcionarios.forEach { println(it) }
 
